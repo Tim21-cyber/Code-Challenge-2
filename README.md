@@ -66,13 +66,10 @@ Open index.html
 
 - Click Toggle Attending.
 
-# 🌟 Additional Notes
-- All functionality is implemented with vanilla JavaScript (without libraries or frameworks).
+# 🔹Improvements🔹:
+✅ All event handlers are attached with addEventListener instead of onclick.
 
-- All event handlers are attached with addEventListener.
-
-- The application maintains state directly in the browser’s memory — reload will reset the list.
-
+✅ All elements are generated with document.createElement instead of using innerHTML.
 
 ✨ Happy coding!✨
 
